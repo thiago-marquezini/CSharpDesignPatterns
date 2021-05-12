@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OvjOfWfp8XPt1tuU4z+jziKXdZoAi2NXZHGUL/qSE+3UUCJc0cx04oZ9Xe5GdPVQu5IU1IXP6R7Rqj+AsbTkyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Thiago\\Desktop\\DesignPatternsInCSharp-master\\Decorator\\Decorator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thiago\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Thiago\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Thiago\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

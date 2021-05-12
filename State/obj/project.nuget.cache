@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jZ9aGFPwcz+Yf/Zf3nL42e0RakDuTMv2ESioHRwq8ZUPVmutPkVojq5HohihhkqsYh2q0BjDIWvyFY+WWltDTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Thiago\\Desktop\\DesignPatternsInCSharp-master\\State\\State.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thiago\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Thiago\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Thiago\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
